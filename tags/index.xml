@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on Eternity</title>
-    <link>/tags/</link>
+    <link>https://AAlesik.github.io/hugo-portfolio-test/tags/</link>
     <description>Recent content in tags on Eternity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://AAlesik.github.io/hugo-portfolio-test/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archive</title>
-      <link>/tags/archive/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/archive/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/archive/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bunny</title>
-      <link>/tags/bunny/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/bunny/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bunny/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/bunny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nature</title>
-      <link>/tags/nature/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/nature/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nature/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>/tags/people/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/people/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/people/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>space</title>
-      <link>/tags/space/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/space/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/space/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>/tags/work/</link>
+      <link>https://AAlesik.github.io/hugo-portfolio-test/tags/work/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/work/</guid>
+      <guid>https://AAlesik.github.io/hugo-portfolio-test/tags/work/</guid>
       <description></description>
     </item>
     
